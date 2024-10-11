@@ -44,3 +44,5 @@ DOMAIN-SUFFIX,95504test.com
 # 国内 CDN
 DOMAIN-SUFFIX,cjjd19.com
 
+# ourplay加速器
+DOMAIN-SUFFIX,ourplay.net
