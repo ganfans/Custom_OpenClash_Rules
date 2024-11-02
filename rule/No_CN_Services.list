@@ -1,6 +1,4 @@
-# Bing, Google,MicroSoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.hk
+# Google,MicroSoft
 DOMAIN-SUFFIX,google.hk
 DOMAIN-SUFFIX,google.com
 
